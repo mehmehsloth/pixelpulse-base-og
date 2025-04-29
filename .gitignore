@@ -1,0 +1,17 @@
+dump.rdb
+.history
+build/
+node_modules/
+.env
+.DS_Store
+TODO.md
+cypress/downloads/
+.history
+# Sentry Config File
+.sentryclirc
+
+*storybook.log
+
+dist
+*.local
+DS_Store
