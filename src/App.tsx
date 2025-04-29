@@ -15,7 +15,6 @@ function App() {
         <HeroSection />
       </div>
 
-      Hello
       <FeaturesSection />
       <TemplatesSection />
       <ExamplesSection />
