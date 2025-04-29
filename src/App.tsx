@@ -14,6 +14,8 @@ function App() {
         <Header />
         <HeroSection />
       </div>
+
+      Hello
       <FeaturesSection />
       <TemplatesSection />
       <ExamplesSection />
